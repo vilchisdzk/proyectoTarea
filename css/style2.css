@@ -1,0 +1,104 @@
+.cuadros{
+  width: 100px;
+  height: 100px;
+  background: rgb(196, 232, 137);
+  margin: 5%;
+}
+
+table{
+  text-align: center;
+  margin-left: :25%;
+  margin-right: :25%;
+  padding: 2%;
+}
+
+tr, th{
+  margin: 10px;
+}
+
+
+.uno{
+  transition: 1s;
+}
+
+.uno:hover{
+  background-color: yellow;
+  transform: rotate(360deg);
+  background-image: url("../img/p1.jpg");
+}
+
+.dos{
+  transition: 1s;
+}
+
+.dos:hover{
+  background-color: pink;
+  transform: rotate(360deg);
+  background-image: url("../img/p2.jpg");
+
+}
+
+.tres{
+  transition: 1s;
+}
+
+.tres:hover{
+  background-color: orange;
+  transform: rotate(360deg);
+  background-image: url("../img/p3.jpg");
+
+}
+
+.cuatro{
+  transition: 1s;
+}
+
+.cuatro:hover{
+  background-color: gray;
+  transform: rotate(360deg);
+  background-image: url("../img/p4.jpg");
+}
+
+.cinco{
+  transition: 1s;
+}
+
+.cinco:hover{
+  background-color: green;
+  transform: rotate(360deg);
+  background-image: url("../img/p5.jpg");
+
+}
+
+.seis{
+  transition: 1s;
+}
+
+.seis:hover{
+  background-color: purple;
+  transform: rotate(360deg);
+  background-image: url("../img/p6.jpg");
+
+}
+
+.siete{
+  transition: 1s;
+}
+
+.siete:hover{
+  background-color: blue;
+  transform: rotate(360deg);
+  background-image: url("../img/p7.jpg");
+
+}
+
+.ocho{
+  transition: 1s;
+}
+
+.ocho:hover{
+  background-color: rgb(5, 214, 235);
+  transform: rotate(360deg);
+  background-image: url("../img/p8.jpg");
+
+}
